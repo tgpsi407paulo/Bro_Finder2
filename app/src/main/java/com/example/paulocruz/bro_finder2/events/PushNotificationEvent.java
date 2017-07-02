@@ -1,8 +1,6 @@
 package com.example.paulocruz.bro_finder2.events;
 
-/**
- * Created by delaroy on 4/13/17.
- */
+
 public class PushNotificationEvent {
     private String title;
     private String message;

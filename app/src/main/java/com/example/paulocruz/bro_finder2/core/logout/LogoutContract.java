@@ -1,7 +1,6 @@
 package com.example.paulocruz.bro_finder2.core.logout;
 
 
-
 public interface LogoutContract {
     interface View {
         void onLogoutSuccess(String message);

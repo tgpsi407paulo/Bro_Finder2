@@ -1,8 +1,5 @@
 package com.example.paulocruz.bro_finder2.models;
 
-/**
- * Created by delaroy on 4/13/17.
- */
 public class Chat  {
     public String sender;
     public String receiver;

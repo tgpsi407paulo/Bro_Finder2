@@ -1,8 +1,5 @@
 package com.example.paulocruz.bro_finder2.models;
 
-/**
- * Created by delaroy on 4/13/17.
- */
 public class User {
     public String uid;
     public String email;
