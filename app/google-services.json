@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "290813821592",
+    "firebase_url": "https://bro-finder-2.firebaseio.com",
+    "project_id": "bro-finder-2",
+    "storage_bucket": "bro-finder-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290813821592:android:e423034ef503428b",
+        "android_client_info": {
+          "package_name": "com.example.paulocruz.bro_finder2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290813821592-j828umfa6rri5v7o8j3r1cp859res5n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaqWr2wdvxPgk44CeGhC_DeAQa7WLZgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
