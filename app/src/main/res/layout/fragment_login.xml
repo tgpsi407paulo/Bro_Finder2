@@ -47,9 +47,9 @@
             style="?attr/borderlessButtonStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"
-            android:text="@string/login_register" />
+            android:text="@string/login_register"
+            android:layout_below="@+id/button_login"
+            android:layout_alignParentStart="true" />
 
     </RelativeLayout>
 
