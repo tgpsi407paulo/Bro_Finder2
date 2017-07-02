@@ -7,8 +7,8 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.ui.fragments.LoginFragment;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.ui.fragments.LoginFragment;
 
 public class LoginActivity extends AppCompatActivity {
     private Toolbar mToolbar;

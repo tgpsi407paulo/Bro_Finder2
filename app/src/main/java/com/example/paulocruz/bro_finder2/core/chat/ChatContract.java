@@ -2,7 +2,7 @@ package com.example.paulocruz.bro_finder2.core.chat;
 
 import android.content.Context;
 
-import com.delaroystudios.firebasechat.models.Chat;
+import com.example.paulocruz.bro_finder2.models.Chat;
 
 
 public interface ChatContract {

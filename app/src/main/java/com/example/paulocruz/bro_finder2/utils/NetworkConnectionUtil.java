@@ -8,7 +8,7 @@ import android.net.NetworkInfo;
 import android.provider.Settings;
 import android.support.v7.app.AlertDialog;
 
-import com.delaroystudios.firebasechat.R;
+import com.example.paulocruz.bro_finder2.R;
 
 
 public class NetworkConnectionUtil {

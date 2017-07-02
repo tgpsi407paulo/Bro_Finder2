@@ -2,8 +2,8 @@ package com.example.paulocruz.bro_finder2.core.users.getall;
 
 import android.text.TextUtils;
 
-import com.delaroystudios.firebasechat.models.User;
-import com.delaroystudios.firebasechat.utils.Constants;
+import com.example.paulocruz.bro_finder2.models.User;
+import com.example.paulocruz.bro_finder2.utils.Constants;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;

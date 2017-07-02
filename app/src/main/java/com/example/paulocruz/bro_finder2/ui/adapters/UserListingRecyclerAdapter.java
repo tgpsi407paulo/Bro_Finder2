@@ -6,8 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.models.User;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.models.User;
 
 import java.util.List;
 

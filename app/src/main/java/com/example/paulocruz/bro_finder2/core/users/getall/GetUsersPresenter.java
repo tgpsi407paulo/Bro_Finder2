@@ -1,6 +1,6 @@
 package com.example.paulocruz.bro_finder2.core.users.getall;
 
-import com.delaroystudios.firebasechat.models.User;
+import com.example.paulocruz.bro_finder2.models.User;
 
 import java.util.List;
 

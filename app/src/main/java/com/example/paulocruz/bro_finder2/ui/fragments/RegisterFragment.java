@@ -13,12 +13,12 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.core.registration.RegisterContract;
-import com.delaroystudios.firebasechat.core.registration.RegisterPresenter;
-import com.delaroystudios.firebasechat.core.users.add.AddUserContract;
-import com.delaroystudios.firebasechat.core.users.add.AddUserPresenter;
-import com.delaroystudios.firebasechat.ui.activities.UserListingActivity;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.core.registration.RegisterContract;
+import com.example.paulocruz.bro_finder2.core.registration.RegisterPresenter;
+import com.example.paulocruz.bro_finder2.core.users.add.AddUserContract;
+import com.example.paulocruz.bro_finder2.core.users.add.AddUserPresenter;
+import com.example.paulocruz.bro_finder2.ui.activities.UserListingActivity;
 import com.google.firebase.auth.FirebaseUser;
 
 

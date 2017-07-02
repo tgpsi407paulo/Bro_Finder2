@@ -13,10 +13,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.core.logout.LogoutContract;
-import com.delaroystudios.firebasechat.core.logout.LogoutPresenter;
-import com.delaroystudios.firebasechat.ui.adapters.UserListingPagerAdapter;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.core.logout.LogoutContract;
+import com.example.paulocruz.bro_finder2.core.logout.LogoutPresenter;
+import com.example.paulocruz.bro_finder2.ui.adapters.UserListingPagerAdapter;
 
 public class UserListingActivity extends AppCompatActivity implements LogoutContract.View {
     private Toolbar mToolbar;

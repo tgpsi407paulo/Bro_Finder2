@@ -4,7 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.delaroystudios.firebasechat.ui.fragments.UsersFragment;
+import com.example.paulocruz.bro_finder2.ui.fragments.UsersFragment;
 
 
 public class UserListingPagerAdapter extends FragmentPagerAdapter {

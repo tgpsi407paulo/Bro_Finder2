@@ -14,13 +14,13 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.core.chat.ChatContract;
-import com.delaroystudios.firebasechat.core.chat.ChatPresenter;
-import com.delaroystudios.firebasechat.events.PushNotificationEvent;
-import com.delaroystudios.firebasechat.models.Chat;
-import com.delaroystudios.firebasechat.ui.adapters.ChatRecyclerAdapter;
-import com.delaroystudios.firebasechat.utils.Constants;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.core.chat.ChatContract;
+import com.example.paulocruz.bro_finder2.core.chat.ChatPresenter;
+import com.example.paulocruz.bro_finder2.events.PushNotificationEvent;
+import com.example.paulocruz.bro_finder2.models.Chat;
+import com.example.paulocruz.bro_finder2.ui.adapters.ChatRecyclerAdapter;
+import com.example.paulocruz.bro_finder2.utils.Constants;
 import com.google.firebase.auth.FirebaseAuth;
 
 import org.greenrobot.eventbus.EventBus;

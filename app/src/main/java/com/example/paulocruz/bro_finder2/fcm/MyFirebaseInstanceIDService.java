@@ -2,8 +2,8 @@ package com.example.paulocruz.bro_finder2.fcm;
 
 import android.util.Log;
 
-import com.delaroystudios.firebasechat.utils.Constants;
-import com.delaroystudios.firebasechat.utils.SharedPrefUtil;
+import com.example.paulocruz.bro_finder2.utils.Constants;
+import com.example.paulocruz.bro_finder2.utils.SharedPrefUtil;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.iid.FirebaseInstanceId;

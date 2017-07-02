@@ -9,11 +9,11 @@ import android.net.Uri;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
-import com.delaroystudios.firebasechat.FirebaseChatMainApp;
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.events.PushNotificationEvent;
-import com.delaroystudios.firebasechat.ui.activities.ChatActivity;
-import com.delaroystudios.firebasechat.utils.Constants;
+import com.example.paulocruz.bro_finder2.FirebaseChatMainApp;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.events.PushNotificationEvent;
+import com.example.paulocruz.bro_finder2.ui.activities.ChatActivity;
+import com.example.paulocruz.bro_finder2.utils.Constants;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 

@@ -3,10 +3,10 @@ package com.example.paulocruz.bro_finder2.core.users.add;
 import android.content.Context;
 import android.support.annotation.NonNull;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.models.User;
-import com.delaroystudios.firebasechat.utils.Constants;
-import com.delaroystudios.firebasechat.utils.SharedPrefUtil;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.models.User;
+import com.example.paulocruz.bro_finder2.utils.Constants;
+import com.example.paulocruz.bro_finder2.utils.SharedPrefUtil;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseUser;

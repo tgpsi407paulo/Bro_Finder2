@@ -7,8 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.models.Chat;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.models.Chat;
 import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.List;
@@ -35,11 +35,11 @@ public class ChatRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
         RecyclerView.ViewHolder viewHolder = null;
         switch (viewType) {
             case VIEW_TYPE_ME:
-                View viewChatMine = layoutInflater.inflate(R.layout.item_chat_mine, parent, false);
+                View viewChatMine = layoutInflater.inflate(R.layout.item_chat_me, parent, false);
                 viewHolder = new MyChatViewHolder(viewChatMine);
                 break;
             case VIEW_TYPE_OTHER:
-                View viewChatOther = layoutInflater.inflate(R.layout.item_chat_other, parent, false);
+                View viewChatOther = layoutInflater.inflate(R.layout.item_chat_you, parent, false);
                 viewHolder = new OtherChatViewHolder(viewChatOther);
                 break;
         }

@@ -12,11 +12,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.delaroystudios.firebasechat.R;
-import com.delaroystudios.firebasechat.core.login.LoginContract;
-import com.delaroystudios.firebasechat.core.login.LoginPresenter;
-import com.delaroystudios.firebasechat.ui.activities.RegisterActivity;
-import com.delaroystudios.firebasechat.ui.activities.UserListingActivity;
+import com.example.paulocruz.bro_finder2.R;
+import com.example.paulocruz.bro_finder2.core.login.LoginContract;
+import com.example.paulocruz.bro_finder2.core.login.LoginPresenter;
+import com.example.paulocruz.bro_finder2.ui.activities.RegisterActivity;
+import com.example.paulocruz.bro_finder2.ui.activities.UserListingActivity;
 
 
 public class LoginFragment extends Fragment implements View.OnClickListener, LoginContract.View {
@@ -70,8 +70,8 @@ public class LoginFragment extends Fragment implements View.OnClickListener, Log
     }
 
     private void setDummyCredentials() {
-        mETxtEmail.setText("test@test.com");
-        mETxtPassword.setText("123456");
+        mETxtEmail.setText("");
+        mETxtPassword.setText("");
     }
 
     @Override
